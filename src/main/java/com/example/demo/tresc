@@ -1,0 +1,5 @@
+Encje - byty które reprezentują to co się dzieje w bazie danych, mapowanie
+http://localhost:8080/h2-console
+h2 baza dobra przy testach aplikacji jest usowana ptzy zamknieciu aplikacji
+
+w propertisach trzeba adres bazy danych
